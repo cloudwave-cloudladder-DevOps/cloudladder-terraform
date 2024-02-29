@@ -1,0 +1,16 @@
+cloudladder.pem
+.c9/**
+
+terraform/cloudladder/ap-northeast-2/*terraform*/**
+terraform/cloudladder/ap-northeast-2/.terraform.lock.hcl
+
+terraform/cloudladder/ap-northeast-2/**/*terraform*/**
+terraform/cloudladder/ap-northeast-2/**/*terraform*/**/.terraform.lock.hcl
+
+terraform/cloudladder/us-east-1/*terraform*/**
+terraform/cloudladder/us-east-1/.terraform.lock.hcl
+terraform/cloudladder/us-east-1/**/*terraform*/**
+terraform/cloudladder/us-east-1/**/*terraform*/**/.terraform.lock.hcl
+
+terraform/cloudladder/*terraform*
+terraform/cloudladder/.terraform.lock.hcl
